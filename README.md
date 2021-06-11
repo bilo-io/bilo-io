@@ -6,7 +6,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bilo-io)](https://git.io/streak-stats)
 
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=bilo-io&repo=dev.to)](https://github.com/thepracticaldev/dev.to)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=bilo-io&repo=cryptyo-x)](https://github.com/thepracticaldev/dev.to)
 <!--
 **bilo-io/bilo-io** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
