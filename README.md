@@ -7,19 +7,19 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
   <img
      alt="Top Languages"
-     height="156"
+     height="150"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilo-io"
    />
   </a>
     <img
       alt="GitHub Stats"
-      height="156"
+      height="150"
       src="https://github-readme-stats.vercel.app/api?username=bilo-io&count_private=true" 
     />
     <a href="https://git.io/streak-stats">
       <img
         alt="GitHub Streak"
-        height="156"
+        height="150"
         src="https://github-readme-streak-stats.herokuapp.com/?user=bilo-io" 
       />
     </a>
