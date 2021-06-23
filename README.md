@@ -2,13 +2,13 @@
 
 <!-- [![MasterHead](./docs/github-cover-1.jpeg)](https://github.com/bilo-io) -->
 
-<h3 align="center">WEB, GAME, MOBILE, XR DEVELOPER</h3>
+<h4 align="center">WEB, GAME, MOBILE, XR DEVELOPER</h4>
 
 <div style="display: flex; flex-direction: row; width: 100%">
   <a href="https://github.com/bilo-io">
     <img
       alt="GitHub Stats"
-      height="138"
+      height="137"
       src="https://github-readme-stats.vercel.app/api?username=bilo-io&count_private=true"
     />
   </a>
@@ -22,7 +22,7 @@
   <a href="https://git.io/streak-stats">
     <img
       alt="GitHub Streak"
-      height="138"
+      height="137"
       src="https://github-readme-streak-stats.herokuapp.com/?user=bilo-io"
     />
   </a>
