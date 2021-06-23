@@ -2,7 +2,7 @@
 
 <!-- [![MasterHead](./docs/github-cover-1.jpeg)](https://github.com/bilo-io) -->
 
-<h3 align="center">WEB, GAME, XR DEVELOPER</h3>
+<h3 align="center">WEB, GAME, MOBILE, XR DEVELOPER</h3>
 
 <div style="display: flex; flex-direction: row; width: 100%">
   <a href="https://github.com/bilo-io">
