@@ -19,21 +19,21 @@
     <img
       alt="GitHub Stats"
       height="137"
-      src="https://github-readme-stats.vercel.app/api?username=bilo-io&count_private=true"
+      src="https://github-readme-stats.vercel.app/api?username=bilo-io&count_private=true&theme=tokyonight"
     />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       alt="Top Languages"
       height="137"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilo-io"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilo-io&theme=tokyonight"
     />
   </a>
   <a href="https://git.io/streak-stats">
     <img
       alt="GitHub Streak"
       height="137"
-      src="https://github-readme-streak-stats.herokuapp.com/?user=bilo-io"
+      src="https://github-readme-streak-stats.herokuapp.com/?user=bilo-io&theme=tokyonight"
     />
   </a>
 </div>
@@ -41,7 +41,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=bilo-io"
+      src="https://github-profile-trophy.vercel.app/?username=bilo-io&theme=tokyonight"
       alt="bilo-io"
   /></a>
 </p>
@@ -49,7 +49,7 @@
 <p align="left">
   <a href="https://twitter.com/" target="blank"
     ><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&theme=tokyonight"
       alt=""
   /></a>
 </p>
@@ -75,6 +75,12 @@
       width="40"
   /></a>
 </p>
+
+<object type="image/svg+xml" data="https://gh-card.dev/repos/bilo-io/vsx.svg?link_target=_blank"></object>
+<object type="image/svg+xml" data="https://gh-card.dev/repos/bilo-io/bilo-io.svg?link_target=_blank"></object>
+<object type="image/svg+xml" data="https://gh-card.dev/repos/bilo-io/bilo-ui.svg?link_target=_blank"></object>
+<object type="image/svg+xml" data="https://gh-card.dev/repos/bilo-io/angeliq-web.svg?link_target=_blank"></object>
+<object type="image/svg+xml" data="https://gh-card.dev/repos/bilo-io/angeliq-app.svg?link_target=_blank"></object>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
