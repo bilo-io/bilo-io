@@ -4,6 +4,16 @@
 
 <h4 align="center">WEB, GAME, MOBILE, XR DEVELOPER</h4>
 
+<a href="https://www.linkedin.com/in/bilolwabona/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:YourEmail@gmail.com">![bilo.lwabona@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=bilo-io&label=Profile%20views&color=0e75b6&style=flat"
+    alt="bilo-io"
+  />
+</p>
+
+
 <div style="display: flex; flex-direction: row; width: 100%">
   <a href="https://github.com/bilo-io">
     <img
@@ -27,13 +37,6 @@
     />
   </a>
 </div>
-
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=bilo-io&label=Profile%20views&color=0e75b6&style=flat"
-    alt="bilo-io"
-  />
-</p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
