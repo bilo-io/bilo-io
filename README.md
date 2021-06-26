@@ -4,16 +4,6 @@
 
 <h4 align="center">WEB, GAME, MOBILE, XR DEVELOPER</h4>
 
-<a href="https://www.linkedin.com/in/bilolwabona/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="mailto:YourEmail@gmail.com">![bilo.lwabona@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=bilo-io&label=Profile%20views&color=0e75b6&style=flat"
-    alt="bilo-io"
-  />
-</p>
-
-
 <div style="display: flex; flex-direction: row; width: 100%">
   <a href="https://github.com/bilo-io">
     <img
@@ -41,22 +31,30 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=bilo-io&theme=tokyonight"
+      src="https://github-profile-trophy.vercel.app/?username=bilo-io&theme=onedark"
       alt="bilo-io"
   /></a>
+</p>
+
+<h3 align="left">Connect with me:</h3>
+
+<a href="https://www.linkedin.com/in/bilolwabona/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+<a href="mailto:YourEmail@gmail.com">![bilo.lwabona@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=bilo-io&label=Profile%20views&color=0e75b6&style=flat"
+    alt="bilo-io"
+  />
 </p>
 
 <p align="left">
   <a href="https://twitter.com/" target="blank"
     ><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge&theme=tokyonight"
+      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"
       alt=""
   /></a>
 </p>
-
-- 📫 How to reach me **bilo.lwabona@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/bilolwabona" target="blank"
     ><img
@@ -82,7 +80,39 @@
 <object type="image/svg+xml" data="https://gh-card.dev/repos/bilo-io/angeliq-web.svg?link_target=_blank"></object>
 <object type="image/svg+xml" data="https://gh-card.dev/repos/bilo-io/angeliq-app.svg?link_target=_blank"></object>
 
-<h3 align="left">Languages and Tools:</h3>
+
+<h3 align="left">Languages</h3>
+<a href="https://www.cprogramming.com/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
+    alt="c"
+    width="40"
+    height="40"
+  />
+</a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+    alt="cplusplus"
+    width="40"
+    height="40"
+  />
+</a>
+<a href="https://www.w3schools.com/cs/" target="_blank">
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
+    alt="csharp"
+    width="40"
+    height="40"
+  />
+</a>
+
+<h3 align="left">Libraries | Frameworks | Engines</h3>
+
+
+<h3 align="left">Other</h3>
+
+
 <p align="left">
   <a href="https://angular.io" target="_blank">
     <img
@@ -124,14 +154,6 @@
       height="40"
     />
   </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://www.chartjs.org" target="_blank">
     <img
       src="https://www.chartjs.org/media/logo-title.svg"
@@ -144,22 +166,6 @@
     <img
       src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg"
       alt="circleci"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
       width="40"
       height="40"
     />
