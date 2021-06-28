@@ -41,23 +41,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<a href="https://www.linkedin.com/in/bilolwabona/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<a href="mailto:YourEmail@gmail.com">![bilo.lwabona@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=bilo-io&label=Profile%20views&color=0e75b6&style=flat"
-    alt="bilo-io"
-  />
-</p>
-
-<p align="left">
-  <a href="https://twitter.com/" target="blank"
-    ><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"
-      alt=""
-  /></a>
-</p>
 <p align="left">
   <a href="https://linkedin.com/in/bilolwabona" target="blank"
     ><img
@@ -77,12 +61,10 @@
   /></a>
 </p>
 
-<object type="image/svg+xml" data="https://gh-card.dev/repos/bilo-io/vsx.svg?link_target=_blank"></object>
-<object type="image/svg+xml" data="https://gh-card.dev/repos/bilo-io/bilo-io.svg?link_target=_blank"></object>
+<object type="image/svg+xml" data="https://gh-card.dev/repos/bilo-io/bilo-io.svg?link_target=_blank&theme=dark"></object>
 <object type="image/svg+xml" data="https://gh-card.dev/repos/bilo-io/bilo-ui.svg?link_target=_blank"></object>
 <object type="image/svg+xml" data="https://gh-card.dev/repos/bilo-io/angeliq-web.svg?link_target=_blank"></object>
 <object type="image/svg+xml" data="https://gh-card.dev/repos/bilo-io/angeliq-app.svg?link_target=_blank"></object>
-
 
 <h3 align="left">Languages</h3>
 <a href="https://www.cprogramming.com/" target="_blank">
