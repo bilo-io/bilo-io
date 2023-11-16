@@ -148,10 +148,52 @@
   </a>
 
 <h3 align="left">Libraries | Frameworks | Engines</h3>
+
+<a href="https://unity.com/" target="_blank">
+    <img
+      src="https://www.svgrepo.com/show/342328/unreal-engine.svg"
+      alt="unrealengine"
+      width="40"
+      height="40"
+    />
+  </a>
   <a href="https://unity.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"
       alt="unity"
+      width="40"
+      height="40"
+    />
+  </a>
+
+   <a href="https://reactjs.org/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+      alt="react"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img
+      src="https://reactnative.dev/img/header_logo.svg"
+      alt="reactnative"
+      width="40"
+      height="40"
+    />
+  </a>
+    <a href="https://nodejs.org" target="_blank">
+    <img
+      src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg"
+      alt="nodejs"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://dotnet.microsoft.com/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
+      alt="dotnet"
       width="40"
       height="40"
     />
@@ -172,22 +214,7 @@
       height="40"
     />
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank">
-    <img
-      src="https://reactnative.dev/img/header_logo.svg"
-      alt="reactnative"
-      width="40"
-      height="40"
-    />
-  </a>
+ 
   <a href="https://d3js.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"
@@ -197,50 +224,10 @@
     />
   </a>
 
-<a href="https://svelte.dev" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg"
-      alt="svelte"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"
-      alt="gatsby"
-      width="40"
-      height="40"
-    />
-  </a>
-    <a href="https://tailwindcss.com/" target="_blank">
+  <a href="https://tailwindcss.com/" target="_blank">
     <img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
       alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-      alt="dotnet"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://ionicframework.com" target="_blank">
-    <img
-      src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg"
-      alt="ionic"
-      width="40"
-      height="40"
-    />
-  </a>
-<a href="https://nodejs.org" target="_blank">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
       width="40"
       height="40"
     />
@@ -257,23 +244,7 @@
       height="40"
     />
   </a>
-  <a href="https://www.sketch.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg"
-      alt="sketch"
-      width="40"
-      height="40"
-    />
-  </a>
 
-<a href="https://www.framer.com/" target="_blank">
-    <img
-      src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg"
-      alt="framer"
-      width="40"
-      height="40"
-    />
-  </a>
 
 <!-- #endregion -->
 <h3 align="left">CI/CD | DevOps | SaaS | PaaS</h3>
